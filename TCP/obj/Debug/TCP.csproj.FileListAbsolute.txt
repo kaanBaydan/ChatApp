@@ -1,0 +1,4 @@
+C:\Users\Win10\source\repos\ChatApp\TCP\obj\Debug\TCP.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\ChatApp\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\Win10\source\repos\ChatApp\TCP\obj\Debug\TCP.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\ChatApp\TCP\obj\Debug\TCP.csproj.CoreCompileInputs.cache
